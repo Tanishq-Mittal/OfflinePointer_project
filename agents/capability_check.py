@@ -99,6 +99,11 @@ def check_capability(request: str, controls: list) -> tuple[bool, str]:
                 "supported by the available controls."
             )
 
+    # Live controls use generated ids, so the fixture whitelist cannot apply.
+    # Defer to the model and the verifier in that case.
+    if not any(cid in available_ids for cid in ACTION_PATTERNS):
+        return True, "Live controls: model decides, verifier checks."
+
     # Match supported actions.
     matched_actions = []
 

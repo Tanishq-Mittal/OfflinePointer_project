@@ -1,0 +1,19 @@
+controls: 182 (live)
+
+Result: {
+  "status": "ok",
+  "control_id": "c121",
+  "confidence": 1.0,
+  "candidates": [
+    "c92",
+    "c113",
+    "c115"
+  ],
+  "model_used": "qwen3:1.7b",
+  "latency_ms": 1026.247042,
+  "tokens_per_sec": 71.93061778124871,
+  "reason": "The control with ID 'c121' has the name 'Format > Text > Writing Direction' which is related to text formatting, and the enabled status is true, making it a suitable control for the request."
+}
+
+TARGET: Format > Text > Writing Direction at (203.0, 0.0)
+Caption: Format > Text > Writing Direction

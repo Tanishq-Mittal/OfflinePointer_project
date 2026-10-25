@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "c1",
+    "name": "Edit",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c2",
+    "name": "Edit > Add Link…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c3",
+    "name": "Edit > Attach Files…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c4",
+    "name": "Edit > AutoFill",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c5",
+    "name": "Edit > AutoFill > Contact…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c6",
+    "name": "Edit > AutoFill > Credit Card…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c7",
+    "name": "Edit > AutoFill > Passwords…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c8",
+    "name": "Edit > Complete",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c9",
+    "name": "Edit > Copy",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c10",
+    "name": "Edit > Cut",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c11",
+    "name": "Edit > Delete",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c12",
+    "name": "Edit > Emoji & Symbols",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c13",
+    "name": "Edit > Find",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c14",
+    "name": "Edit > Find > Find Next",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c15",
+    "name": "Edit > Find > Find Previous",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c16",
+    "name": "Edit > Find > Find and Replace…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c17",
+    "name": "Edit > Find > Find…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c18",
+    "name": "Edit > Find > Jump to Selection",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c19",
+    "name": "Edit > Find > Select Line...",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c20",
+    "name": "Edit > Find > Use Selection for Find",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c21",
+    "name": "Edit > Insert",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c22",
+    "name": "Edit > Insert > Line Break",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c23",
+    "name": "Edit > Insert > Page Break",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c24",
+    "name": "Edit > Insert > Paragraph Break",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c25",
+    "name": "Edit > Paste",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c26",
+    "name": "Edit > Paste and Match Style",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c27",
+    "name": "Edit > Redo",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c28",
+    "name": "Edit > Select All",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c29",
+    "name": "Edit > Speech",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c30",
+    "name": "Edit > Speech > Start Speaking",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c31",
+    "name": "Edit > Speech > Stop Speaking",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c32",
+    "name": "Edit > Spelling and Grammar",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c33",
+    "name": "Edit > Spelling and Grammar > Check Document Now",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c34",
+    "name": "Edit > Spelling and Grammar > Check Grammar With Spelling",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c35",
+    "name": "Edit > Spelling and Grammar > Check Spelling While Typing",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c36",
+    "name": "Edit > Spelling and Grammar > Correct Spelling Automatically",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c37",
+    "name": "Edit > Spelling and Grammar > Show Spelling and Grammar",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c38",
+    "name": "Edit > Start Dictation",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c39",
+    "name": "Edit > Substitutions",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c40",
+    "name": "Edit > Substitutions > Data Detectors",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c41",
+    "name": "Edit > Substitutions > Show Substitutions",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c42",
+    "name": "Edit > Substitutions > Smart Copy/Paste",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c43",
+    "name": "Edit > Substitutions > Smart Dashes",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c44",
+    "name": "Edit > Substitutions > Smart Links",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c45",
+    "name": "Edit > Substitutions > Smart Quotes",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c46",
+    "name": "Edit > Substitutions > Text Replacement",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c47",
+    "name": "Edit > Transformations",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c48",
+    "name": "Edit > Transformations > Capitalize",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c49",
+    "name": "Edit > Transformations > Make Lower Case",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c50",
+    "name": "Edit > Transformations > Make Upper Case",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c51",
+    "name": "Edit > Undo Typing",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c52",
+    "name": "Edit > Writing Tools",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c53",
+    "name": "Edit > Writing Tools > Compose…",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c54",
+    "name": "Edit > Writing Tools > Create Key Points",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c55",
+    "name": "Edit > Writing Tools > Make Concise",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c56",
+    "name": "Edit > Writing Tools > Make Friendly",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c57",
+    "name": "Edit > Writing Tools > Make List",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c58",
+    "name": "Edit > Writing Tools > Make Professional",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c59",
+    "name": "Edit > Writing Tools > Make Table",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c60",
+    "name": "Edit > Writing Tools > Proofread",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c61",
+    "name": "Edit > Writing Tools > Rewrite",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c62",
+    "name": "Edit > Writing Tools > Show Writing Tools",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c63",
+    "name": "Edit > Writing Tools > Summarize",
+    "role": "MenuItem",
+    "x": 159,
+    "y": 0,
+    "w": 44,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c64",
+    "name": "File",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c65",
+    "name": "File > <<Import From Device - unlocalized>>",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c66",
+    "name": "File > Close",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c67",
+    "name": "File > Close All",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c68",
+    "name": "File > Duplicate",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c69",
+    "name": "File > Export as PDF…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c70",
+    "name": "File > Move To…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c71",
+    "name": "File > New",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c72",
+    "name": "File > Open Recent",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c73",
+    "name": "File > Open Recent > Clear Menu",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c74",
+    "name": "File > Open Recent > Offlinepointer",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c75",
+    "name": "File > Open Recent > Pasted text(1).txt",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c76",
+    "name": "File > Open Recent > requirements.txt",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c77",
+    "name": "File > Open…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c78",
+    "name": "File > Page Setup…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c79",
+    "name": "File > Print…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c80",
+    "name": "File > Rename…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c81",
+    "name": "File > Revert To",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c82",
+    "name": "File > Revert To > Browse All Versions…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c83",
+    "name": "File > Revert To > Last Opened — Today, 12:00 PM",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c84",
+    "name": "File > Save",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c85",
+    "name": "File > Save As…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c86",
+    "name": "File > Share",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c87",
+    "name": "File > Share > AirDrop",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c88",
+    "name": "File > Share > Freeform",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c89",
+    "name": "File > Share > Journal",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c90",
+    "name": "File > Share > Mail",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c91",
+    "name": "File > Share > Messages",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c92",
+    "name": "File > Share > More…",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c93",
+    "name": "File > Share > Notes",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c94",
+    "name": "File > Share > Reminders",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c95",
+    "name": "File > Show Properties",
+    "role": "MenuItem",
+    "x": 117,
+    "y": 0,
+    "w": 42,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c96",
+    "name": "Format",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c97",
+    "name": "Format > Allow Hyphenation",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c98",
+    "name": "Format > Font",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c99",
+    "name": "Format > Font > Baseline",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c100",
+    "name": "Format > Font > Bigger",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c101",
+    "name": "Format > Font > Bold",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c102",
+    "name": "Format > Font > Character Shape",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c103",
+    "name": "Format > Font > Copy Style",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c104",
+    "name": "Format > Font > Highlight",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c105",
+    "name": "Format > Font > Italic",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c106",
+    "name": "Format > Font > Kern",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c107",
+    "name": "Format > Font > Ligatures",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c108",
+    "name": "Format > Font > Outline",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c109",
+    "name": "Format > Font > Paste Style",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c110",
+    "name": "Format > Font > Show Colors",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c111",
+    "name": "Format > Font > Show Fonts",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c112",
+    "name": "Format > Font > Smaller",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c113",
+    "name": "Format > Font > Styles...",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c114",
+    "name": "Format > Font > Underline",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c115",
+    "name": "Format > List…",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c116",
+    "name": "Format > Make Layout Vertical",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c117",
+    "name": "Format > Make Plain Text",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c118",
+    "name": "Format > Prevent Editing",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c119",
+    "name": "Format > Table…",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c120",
+    "name": "Format > Text",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c121",
+    "name": "Format > Text > Align Left",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c122",
+    "name": "Format > Text > Align Right",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c123",
+    "name": "Format > Text > Center",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c124",
+    "name": "Format > Text > Copy Ruler",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c125",
+    "name": "Format > Text > Justify",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c126",
+    "name": "Format > Text > Paste Ruler",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c127",
+    "name": "Format > Text > Show Ruler",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c128",
+    "name": "Format > Text > Spacing...",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c129",
+    "name": "Format > Text > Writing Direction",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c130",
+    "name": "Format > Wrap to Page",
+    "role": "MenuItem",
+    "x": 203,
+    "y": 0,
+    "w": 63,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c131",
+    "name": "Help",
+    "role": "MenuItem",
+    "x": 385,
+    "y": 0,
+    "w": 48,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c132",
+    "name": "Help > TextEdit Help",
+    "role": "MenuItem",
+    "x": 385,
+    "y": 0,
+    "w": 48,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c133",
+    "name": "TextEdit",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c134",
+    "name": "TextEdit > About TextEdit",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c135",
+    "name": "TextEdit > Hide Others",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c136",
+    "name": "TextEdit > Hide TextEdit",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c137",
+    "name": "TextEdit > Quit TextEdit",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c138",
+    "name": "TextEdit > Quit and Keep Windows",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c139",
+    "name": "TextEdit > Services",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c140",
+    "name": "TextEdit > Services > No Services Apply",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c141",
+    "name": "TextEdit > Services > Services Settings…",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c142",
+    "name": "TextEdit > Settings…",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c143",
+    "name": "TextEdit > Show All",
+    "role": "MenuItem",
+    "x": 44,
+    "y": 0,
+    "w": 73,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c144",
+    "name": "View",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c145",
+    "name": "View > Actual Size",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c146",
+    "name": "View > Enter Full Screen",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c147",
+    "name": "View > Show All Tabs",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c148",
+    "name": "View > Show Tab Bar",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c149",
+    "name": "View > Use Dark Background for Windows",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c150",
+    "name": "View > Zoom In",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c151",
+    "name": "View > Zoom Out",
+    "role": "MenuItem",
+    "x": 266,
+    "y": 0,
+    "w": 50,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c152",
+    "name": "Window",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c153",
+    "name": "Window > Arrange in Front",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c154",
+    "name": "Window > Bring All to Front",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c155",
+    "name": "Window > Center",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c156",
+    "name": "Window > Fill",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c157",
+    "name": "Window > Full Screen Tile",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c158",
+    "name": "Window > Full Screen Tile > Left of Screen",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c159",
+    "name": "Window > Full Screen Tile > Right of Screen",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c160",
+    "name": "Window > Merge All Windows",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c161",
+    "name": "Window > Minimize",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c162",
+    "name": "Window > Minimize All",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c163",
+    "name": "Window > Move & Resize",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c164",
+    "name": "Window > Move & Resize > Arrange",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c165",
+    "name": "Window > Move & Resize > Bottom",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c166",
+    "name": "Window > Move & Resize > Bottom & Quarters",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c167",
+    "name": "Window > Move & Resize > Bottom & Top",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c168",
+    "name": "Window > Move & Resize > Bottom Left",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c169",
+    "name": "Window > Move & Resize > Bottom Right",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c170",
+    "name": "Window > Move & Resize > Halves",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c171",
+    "name": "Window > Move & Resize > Left",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c172",
+    "name": "Window > Move & Resize > Left & Quarters",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c173",
+    "name": "Window > Move & Resize > Left & Right",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c174",
+    "name": "Window > Move & Resize > Quarters",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c175",
+    "name": "Window > Move & Resize > Return to Previous Size",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c176",
+    "name": "Window > Move & Resize > Right",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c177",
+    "name": "Window > Move & Resize > Right & Left",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c178",
+    "name": "Window > Move & Resize > Right & Quarters",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c179",
+    "name": "Window > Move & Resize > Top",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c180",
+    "name": "Window > Move & Resize > Top & Bottom",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c181",
+    "name": "Window > Move & Resize > Top & Quarters",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c182",
+    "name": "Window > Move & Resize > Top Left",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c183",
+    "name": "Window > Move & Resize > Top Right",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c184",
+    "name": "Window > Move Tab to New Window",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c185",
+    "name": "Window > Offlinepointer",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c186",
+    "name": "Window > Remove Window from Set",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c187",
+    "name": "Window > Show Next Tab",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c188",
+    "name": "Window > Show Previous Tab",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": false
+  },
+  {
+    "id": "c189",
+    "name": "Window > Zoom",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  },
+  {
+    "id": "c190",
+    "name": "Window > Zoom All",
+    "role": "MenuItem",
+    "x": 316,
+    "y": 0,
+    "w": 69,
+    "h": 33,
+    "enabled": true
+  }
+]
