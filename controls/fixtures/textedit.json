@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bold",
+    "name": "Format > Font > Bold",
+    "role": "menu item",
+    "x": 230,
+    "y": 45,
+    "w": 60,
+    "h": 22,
+    "enabled": true
+  },
+  {
+    "id": "italic",
+    "name": "Format > Font > Italic",
+    "role": "menu item",
+    "x": 230,
+    "y": 70,
+    "w": 60,
+    "h": 22,
+    "enabled": true
+  },
+  {
+    "id": "font_size",
+    "name": "Format > Font > Bigger",
+    "role": "menu item",
+    "x": 230,
+    "y": 95,
+    "w": 90,
+    "h": 22,
+    "enabled": true
+  },
+  {
+    "id": "save",
+    "name": "File > Save",
+    "role": "menu item",
+    "x": 45,
+    "y": 20,
+    "w": 60,
+    "h": 22,
+    "enabled": true
+  },
+  {
+    "id": "align_center",
+    "name": "Format > Text > Center",
+    "role": "menu item",
+    "x": 260,
+    "y": 125,
+    "w": 90,
+    "h": 22,
+    "enabled": true
+  }
+]

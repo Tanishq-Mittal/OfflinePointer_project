@@ -1,0 +1,5 @@
+rapidfuzz
+pydantic
+requests
+psutil
+pytest

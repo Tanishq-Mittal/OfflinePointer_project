@@ -1,0 +1,15 @@
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+graphify-out/
+.DS_Store
+.env
+__pycache__/
+.pytest_cache/
+results/
+graphify-out/
+.DS_Store
