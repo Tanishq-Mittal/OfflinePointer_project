@@ -6,9 +6,7 @@ OfflinePointer is a prototype that uses a local Ollama model to identify a UI co
 
 - Python 3.11 or newer
 - [Ollama](https://ollama.com/) installed and running locally
-- The default model: `qwen3:1.7b`
-
-An optional escalation model, `llama3.2:3b`, can also be downloaded.
+- The default models: `qwen3:1.7b` (picker) and `llama3.2:3b` (escalation)
 
 ## Get started
 

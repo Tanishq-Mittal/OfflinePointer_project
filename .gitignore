@@ -1,3 +1,4 @@
+.env
 .env.*
 !.env.example
 __pycache__/
@@ -5,11 +6,5 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
-graphify-out/
-.DS_Store
-.env
-__pycache__/
-.pytest_cache/
-results/
 graphify-out/
 .DS_Store
