@@ -57,6 +57,20 @@ Run the test suite with:
 python -m pytest -q
 ```
 
+## Code graph
+
+The interactive Graphify map is in [`graphify-out/graph.html`](graphify-out/graph.html), with its machine-readable graph in `graphify-out/graph.json` and a summary in `graphify-out/GRAPH_REPORT.md`. Open the HTML file in a browser; it is generated from the Python source and does not need Ollama or a separate AI model.
+
+To install Graphify and regenerate the code-only graph, install `uv` (for example, `winget install --id astral-sh.uv` on Windows or `brew install uv` on macOS), then run:
+
+```sh
+uv tool install graphifyy
+graphify extract . --code-only
+graphify cluster-only . --no-label
+```
+
+The extraction runs locally without sending source code to a model. Run these commands again after code changes to refresh the graph.
+
 ## Configuration
 
 The defaults are `OLLAMA_HOST=http://localhost:11434`, `PICKER_MODEL=qwen3:1.7b`, and `ESCALATION_MODEL=llama3.2:3b`. Override these by setting environment variables in your shell. `.env.example` documents the variable names; the application does not automatically load a `.env` file.
